@@ -25,4 +25,4 @@ Exploring meaningful technology that aligns with organic and conscious living ðŸ
 ---
 
 ðŸ“« **Get in touch**  
-[Email](jena.sarcastic.creator@gmail.com) | [Notion Portfolio](https://liberating-linen-25e.notion.site/Hi-I-m-Yana-1d212970fae680eb94adec686df2f881)
+[Email](mailto:jena.sarcastic.creator@gmail.com) | [Notion Portfolio](https://liberating-linen-25e.notion.site/Hi-I-m-Yana-1d212970fae680eb94adec686df2f881)
