@@ -1,4 +1,4 @@
-# Hi there, I'm Yana 👋
+# Hi there, I'm Jena 🖖
 
 Frontend Engineer • UI Lover • Creative Thinker
 
@@ -11,8 +11,9 @@ Frontend Engineer • UI Lover • Creative Thinker
 
 ## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?logo=typescript&logoColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 ---
 
