@@ -1,6 +1,8 @@
 # Hi there, I'm Jena 🖖
-Frontend Engineer • UI Lover • Creative Thinker
+Software Engineer • UI Lover • Visual Alchemist • Creative Thinker
 ## [![Static Badge](https://img.shields.io/badge/Email-EAEAEA?style=flat&logo=gmail&labelColor=rgba(64%2C%2064%2C%2064%2C%200.5)&color=rgba(64%2C64%2C64%2C%200.1))](mailto:jena.sarcastic.creator@gmail.com)  [![Static Badge](https://img.shields.io/badge/Notion_Portfolio-EAEAEA?style=flat&logo=notion&labelColor=rgba(64%2C%2064%2C%2064%2C%200.5)&color=rgba(64%2C64%2C64%2C%200.1))](https://liberating-linen-25e.notion.site/Hi-I-m-Yana-1d212970fae680eb94adec686df2f881)
+
+***I’ve spent years writing sleek, user-friendly interfaces  — now I’m diving into full-stack development, leveling up my skills, and embracing the freedom to build from top to bottom, and everywhere in between (because why stop at half the fun?)***
 
 🌱 **Currently exploring**: Fullstack projects, upcycling ideas, and building tools that matter  
 📍 **Values**: Clean code, ethical tech, and sustainable solutions  
